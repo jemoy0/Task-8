@@ -1,0 +1,14 @@
+img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.content {
+    width: 400px;
+    font-size: 24px;
+    font-family: sans-serif;
+    border: 2px solid #ececec;
+    padding: 10px;
+    margin: 50px auto;
+}
